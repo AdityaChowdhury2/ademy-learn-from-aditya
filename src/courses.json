@@ -1,0 +1,122 @@
+[
+  {
+    "_id": "61fa246327589b6e2add3a47",
+    "index": 0,
+    "name": "Java Tutorial for Complete Beginners",
+    "image": "https://img-c.udemycdn.com/course/304x171/24823_963e_14.jpg",
+    "description": "Learn to program using the Java programming language.\r\n",
+    "price": 448
+  },
+  {
+    "_id": "61fa246379a843d2f0bfdfd0",
+    "index": 1,
+    "name": "Introduction To Python Programming",
+    "image": "https://img-c.udemycdn.com/course/304x171/433798_1de9_4.jpg",
+    "description": "A Quick and Easy Intro into Python Programming\r\n",
+    "price": 371
+  },
+  {
+    "_id": "61fa2463c98bf046163f3675",
+    "index": 2,
+    "name": "C++ Tutorial for Complete Beginners",
+    "image": "https://img-c.udemycdn.com/course/304x171/247190_5cb0_2.jpg",
+    "description": "How to program in the popular (and tricky!) C++ programming language, for complete beginners.\r\n",
+    "price": 471
+  },
+  {
+    "_id": "61fa2463d14a01b818ea576d",
+    "index": 3,
+    "name": "Become an Android Developer from Scratch",
+    "image": "https://img-c.udemycdn.com/course/304x171/146156_c2cc_4.jpg",
+    "description": "Simply the best place to start learning Android Development.\r\n",
+    "price": 406
+  },
+  {
+    "_id": "61fa24636ba7705589f86ca4",
+    "index": 4,
+    "name": "Web Design for Web Developers: Build Beautiful Websites!",
+    "image": "https://img-c.udemycdn.com/course/304x171/473160_d929_3.jpg",
+    "description": "Learn web design in 1 hour with 25+ simple-to-use rules and guidelines — tons of amazing web design resources included!\r\n",
+    "price": 380
+  },
+  {
+    "_id": "61fa24636bf8df823b7ee714",
+    "index": 5,
+    "name": "Javascript Essentials",
+    "image": "https://img-c.udemycdn.com/course/304x171/707962_71f5_4.jpg",
+    "description": "Learn how Javascript works, some basic API's and finally create a mini project.\r\n",
+    "price": 253
+  },
+  {
+    "_id": "61fa24631b1eae788ad587bf",
+    "index": 6,
+    "name": "Code Your First Game: Arcade Classic in JavaScript on Canvas",
+    "image": "https://img-c.udemycdn.com/course/304x171/387820_93f0_5.jpg",
+    "description": "Program a complete game today. No special software or install required. All you need is a text editor and a web browser.\r\n",
+    "price": 388
+  },
+  {
+    "_id": "61fa2463017e7b664f4b4f89",
+    "index": 7,
+    "name": "Savage Hoffman",
+    "image": "male",
+    "description": "Dolor eu minim aliquip aliquip ea deserunt aliqua culpa. Ad irure non consectetur anim ullamco. Laborum dolore ea eu cillum. Officia nisi esse labore consequat cillum in nostrud ea mollit fugiat labore enim proident.\r\n",
+    "price": 386
+  },
+  {
+    "_id": "61fa246327da2d3b6de955bb",
+    "index": 8,
+    "name": "R Basics - R Programming Language Introduction",
+    "image": "https://img-c.udemycdn.com/course/304x171/236676_881e_4.jpg",
+    "description": "Learn the essentials of R Programming - R Beginner Level!\r\n",
+    "price": 329
+  },
+  {
+    "_id": "61fa2463b557838e71873d5e",
+    "index": 9,
+    "name": "Git Started with GitHub",
+    "image": "https://img-c.udemycdn.com/course/304x171/500632_e820.jpg",
+    "description": "Learn the basics of Git and GitHub, with clear, step-by-step instructions by a highly rated teacher.\r\n",
+    "price": 304
+  },
+  {
+    "_id": "61fa24630c24a5d261dcfecf",
+    "index": 10,
+    "name": "Learn Android Application Development",
+    "image": "https://img-c.udemycdn.com/course/304x171/1325686_e03b_3.jpg",
+    "description": "A beginner course on Android Application development. \r\n",
+    "price": 325
+  },
+  {
+    "_id": "61fa2463d0e9abaf5f7e9caf",
+    "index": 11,
+    "name": "Practical PHP: Master the Basics and Code Dynamic Websites",
+    "image": "https://img-c.udemycdn.com/course/304x171/130064_22b3_12.jpg",
+    "description": "Code Your Very Own Dynamic Websites by Learning PHP Through Real-World Application & Examples.\r\n",
+    "price": 242
+  },
+  {
+    "_id": "61fa24631b9540cefbfbbd34",
+    "index": 12,
+    "name": "Java Multithreading",
+    "image": "https://img-c.udemycdn.com/course/304x171/22169_1283_9.jpg",
+    "description": "Unveiling the mysteries of multithreading in Java. The ultimate Java multithreading course.\r\n",
+    "price": 402
+  },
+  {
+    "_id": "61fa24637c2ae969d8a23fb5",
+    "index": 13,
+    "name": "Big Data and Hadoop Essentials",
+    "image": "https://img-b.udemycdn.com/course/304x171/225796_adf7_2.jpg?secure=cqtsrKzkSGEhon9uT3YIFQ%3D%3D%2C1643857154",
+    "description": "Essential Knowledge for everyone associated with Big Data & Hadoop.\r\n",
+    "price": 261
+  },
+  {
+    "_id": "61fa246325a60c58377c4ee2",
+    "index": 14,
+    "name": "Web Development By Doing: HTML / CSS From Scratch",
+    "image": "https://img-b.udemycdn.com/course/304x171/65330_5f74_10.jpg?secure=WqwLJMe1LcF8xkIWLc5hUg%3D%3D%2C1643857154",
+    "description": "Web Development From Scratch: Learn By Doing For Complete Beginners. HTML And CSS. Code Your First Website In 1 Hour.\r\n",
+    "price": 445
+  }
+]

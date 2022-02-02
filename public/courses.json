@@ -1,0 +1,122 @@
+[
+  {
+    "_id": "61fa246327589b6e2add3a47",
+    "index": 0,
+    "name": "Java Tutorial for Complete Beginners",
+    "image": "https://img-c.udemycdn.com/course/304x171/24823_963e_14.jpg",
+    "description": "voluptate aliquip laboris laboris aliquip elit voluptate do in anim officia sunt ut laboris sit excepteur anim consequat aliqua eiusmod",
+    "price": 448
+  },
+  {
+    "_id": "61fa246379a843d2f0bfdfd0",
+    "index": 1,
+    "name": "Introduction To Python Programming",
+    "image": "https://img-c.udemycdn.com/course/304x171/433798_1de9_4.jpg",
+    "description": "commodo excepteur adipisicing ullamco duis aliqua non cillum nisi mollit cillum fugiat nisi voluptate velit velit eiusmod velit labore est",
+    "price": 371
+  },
+  {
+    "_id": "61fa2463c98bf046163f3675",
+    "index": 2,
+    "name": "C++ Tutorial for Complete Beginners",
+    "image": "https://img-c.udemycdn.com/course/304x171/247190_5cb0_2.jpg",
+    "description": "mollit culpa nulla do aute deserunt duis enim consectetur aliquip deserunt culpa ea nisi cillum consectetur id officia dolore sunt",
+    "price": 471
+  },
+  {
+    "_id": "61fa2463d14a01b818ea576d",
+    "index": 3,
+    "name": "Become an Android Developer from Scratch",
+    "image": "https://img-c.udemycdn.com/course/304x171/146156_c2cc_4.jpg",
+    "description": "consectetur aliqua fugiat tempor in cupidatat voluptate veniam aliquip ad aute laborum deserunt do exercitation aute ex incididunt",
+    "price": 406
+  },
+  {
+    "_id": "61fa24636ba7705589f86ca4",
+    "index": 4,
+    "name": "Web Design for Web Developers: Build Beautiful Websites!",
+    "image": "https://img-c.udemycdn.com/course/304x171/473160_d929_3.jpg",
+    "description": "in eiusmod et occaecat aliquip Lorem veniam amet reprehenderit sit dolor culpa eiusmod aliquip in exercitation aute quis enim ex",
+    "price": 380
+  },
+  {
+    "_id": "61fa24636bf8df823b7ee714",
+    "index": 5,
+    "name": "Javascript Essentials",
+    "image": "https://img-c.udemycdn.com/course/304x171/707962_71f5_4.jpg",
+    "description": "elit commodo incididunt consectetur reprehenderit pariatur excepteur nulla Lorem laboris elit mollit in ex amet officia ad laboris et cillum",
+    "price": 253
+  },
+  {
+    "_id": "61fa24631b1eae788ad587bf",
+    "index": 6,
+    "name": "Code Your First Game: Arcade Classic in JavaScript on Canvas",
+    "image": "https://img-c.udemycdn.com/course/304x171/387820_93f0_5.jpg",
+    "description": "est labore duis dolor pariatur commodo magna consectetur consequat quis minim velit fugiat in aute do veniam velit fugiat minim",
+    "price": 388
+  },
+  {
+    "_id": "61fa2463017e7b664f4b4f89",
+    "index": 7,
+    "name": "How To Create A Website using WordPress (Step by Step)",
+    "image": "https://img-c.udemycdn.com/course/304x171/648102_bbdd_2.jpg",
+    "description":  "aliquip minim voluptate deserunt sit anim amet dolore amet id eu ad culpa excepteur amet laborum irure proident ullamco nulla",
+    "price": 386
+  },
+  {
+    "_id": "61fa246327da2d3b6de955bb",
+    "index": 8,
+    "name": "R Basics - R Programming Language Introduction",
+    "image": "https://img-c.udemycdn.com/course/304x171/236676_881e_4.jpg",
+    "description": "Learn the essentials of R Programming - R Beginner Level!\r\n",
+    "price": 329
+  },
+  {
+    "_id": "61fa2463b557838e71873d5e",
+    "index": 9,
+    "name": "Git Started with GitHub",
+    "image": "https://img-c.udemycdn.com/course/304x171/500632_e820.jpg",
+    "description":  "dolor aliqua eu irure aute ipsum laborum ad est ad nisi dolore adipisicing laborum incididunt voluptate qui labore veniam esse",
+    "price": 304
+  },
+  {
+    "_id": "61fa24630c24a5d261dcfecf",
+    "index": 10,
+    "name": "Learn Android Application Development",
+    "image": "https://img-c.udemycdn.com/course/304x171/1325686_e03b_3.jpg",
+    "description":  "esse ipsum ut deserunt consectetur cupidatat nostrud eiusmod velit officia laborum mollit do officia fugiat velit culpa nisi magna consectetur",
+    "price": 325
+  },
+  {
+    "_id": "61fa2463d0e9abaf5f7e9caf",
+    "index": 11,
+    "name": "Practical PHP: Master the Basics and Code Dynamic Websites",
+    "image": "https://img-c.udemycdn.com/course/304x171/130064_22b3_12.jpg",
+    "description": "labore voluptate fugiat dolor exercitation laborum incididunt ad reprehenderit reprehenderit excepteur aliqua et incididunt",
+    "price": 242
+  },
+  {
+    "_id": "61fa24631b9540cefbfbbd34",
+    "index": 12,
+    "name": "Java Multithreading",
+    "image": "https://img-c.udemycdn.com/course/304x171/22169_1283_9.jpg",
+    "description":  "enim pariatur commodo incididunt laboris est excepteur cupidatat laboris consequat sint consectetur aliqua consequat sunt nostrud culpa qui ullamco sint",
+    "price": 402
+  },
+  {
+    "_id": "61fa24637c2ae969d8a23fb5",
+    "index": 13,
+    "name": "Big Data and Hadoop Essentials",
+    "image": "https://img-b.udemycdn.com/course/304x171/225796_adf7_2.jpg?secure=cqtsrKzkSGEhon9uT3YIFQ%3D%3D%2C1643857154",
+    "description": "deserunt aute esse voluptate elit ea et excepteur enim labore voluptate Lorem fugiat ex laboris in amet sunt nulla ad eiusmod tempor",
+    "price": 261
+  },
+  {
+    "_id": "61fa246325a60c58377c4ee2",
+    "index": 14,
+    "name": "Web Development By Doing: HTML / CSS From Scratch",
+    "image": "https://img-b.udemycdn.com/course/304x171/65330_5f74_10.jpg?secure=WqwLJMe1LcF8xkIWLc5hUg%3D%3D%2C1643857154",
+    "description": "veniam id dolor ad esse anim nostrud anim reprehenderit deserunt dolore consectetur in sunt quis commodo cillum velit labore anim",
+    "price": 445
+  }
+]
